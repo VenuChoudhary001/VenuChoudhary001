@@ -1,23 +1,66 @@
+# VENU CHOUDHARY
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venu-choudhary-1284421b9/)](https://www.linkedin.com/in/venu-choudhary-1284421b9/) [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Internet%20Explorer&logoColor=white&link=your-portfolio-url)](your-portfolio-url) [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=Twitter&logoColor=white&link=your-twitter-profile-url)](https://twitter.com/venuchoudhary6) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=your-github-profile-url)](https://github.com/VenuChoudhary001)[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=flat-square)](https://your-github-profile-url/#open-source) [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=flat-square)](https://github.com/VenuChoudhary/issues)
 
-<h1 align="center">Hi 👋, I'm Venu Choudhary</h1>
-<h3 align="center">A passionate developer and a freelancer from India.</h3>
+Computer Science Undergrad at NIT Durgapur | Open Source Enthusiast | Freelance Developer 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venuchoudhary001&label=Profile%20views&color=0e75b6&style=flat" alt="venuchoudhary001" /> </p>
+---
 
-- 🔭 I’m currently learning **data structures and algorithms**
+## Tech Stacks
 
-- 💬 Ask me about **React express mongo react native node js**
-
-- 📫 How to reach me **venu.choudhary2000@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/venuchoudhary6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="venuchoudhary6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/venuchoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venuchoudhary" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" width="100" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" width="120" />
+  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js" width="100" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" width="100" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="160" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" width="100" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" width="120" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" width="120" />
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" width="140" />
+  <img src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" width="100" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" width="80" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" width="140" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" width="80" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="100" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" width="80" />
+  <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=black" alt="Adobe Illustrator" width="180" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" width="140" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" width="80" />
+  <img src="https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" width="120" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venuchoudhary001&show_icons=true&locale=en&layout=compact" alt="venuchoudhary001" /></p>
+## Project Showcase
+
+Welcome to my GitHub repository! Here you'll find an assortment of my projects and contributions as a computer science undergraduate and an open-source enthusiast. I am currently pursuing my degree at NIT Durgapur, and I am set to graduate in May 2024. In addition to my academic journey, I have gained valuable experience working as a freelance developer, primarily focusing on frontend development. Currently, I am also working as an open-source intern at Code4govtech by Samagra Governance.
+
+### 1. [Secure Depart - Decentralized Packaging and Return Technology](https://github.com/deucaleon18/Secure-DePaRT)
+
+Secure Depart is a decentralized application that leverages computer vision to detect defects in packaging, ensuring a secure and reliable shipping process. It combines cutting-edge technologies to streamline the packaging and return processes.
+
+**Tech Stack:** Next.js, Tailwind CSS, Web3.js, Solidity
+
+### 2. [Kill Code 2.0 - Real-Time Multiplayer Application](https://github.com/VenuChoudhary001/kill_code)
+
+Kill Code 2.0 is an engaging and real-time multiplayer application that allows users to compete against each other in a thrilling gaming environment. This project has been successfully embraced by over 300 users, adding a layer of excitement to their gaming experiences.
+
+### 3. Freelance Projects
+
+I have also been involved in various freelance projects, collaborating with clients to bring their ideas to life. Some of the freelance projects I've worked on include:
+
+- [Power Camper](https://github.com/VenuChoudhary001/Camper)
+- [Vien Health](https://github.com/VenuChoudhary001/vien_health)
+- [Cube](https://github.com/VenuChoudhary001/Cube)
+- [Moment](https://github.com/VenuChoudhary001/Moment)
+
+**Tech Stack:** NEXT JS, Fast API, Google Sheets, Mongodb, Tailwind CSS
+
+---
+
+## Get in Touch
+
+I'm passionate about coding and open to collaborations and discussions. If you have any questions, suggestions, or just want to say hi, you can reach out to me via email at venuchoudhary001@gmail.com.
+
+Let's connect and build amazing software together! 🚀
