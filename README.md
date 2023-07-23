@@ -6,7 +6,7 @@ Computer Science Undergrad at NIT Durgapur | Open Source Enthusiast | Freelance 
 
 ---
 
-## Tech Stacks
+## Familiar with
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" width="100" />
