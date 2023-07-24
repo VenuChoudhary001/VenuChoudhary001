@@ -2,9 +2,20 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venu-choudhary-1284421b9/)](https://www.linkedin.com/in/venu-choudhary-1284421b9/) [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Internet%20Explorer&logoColor=white&link=your-portfolio-url)](your-portfolio-url) [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=Twitter&logoColor=white&link=your-twitter-profile-url)](https://twitter.com/venuchoudhary6) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=your-github-profile-url)](https://github.com/VenuChoudhary001)[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=flat-square)](https://your-github-profile-url/#open-source) [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=flat-square)](https://github.com/VenuChoudhary/issues)
 
-Computer Science Undergrad at NIT Durgapur | Open Source Enthusiast | Freelance Developer 
+```bash
+$ whoami
 
----
+Computer Science Undergrad at NIT Durgapur
+Open Source Enthusiast | Freelance Developer
+
+$ cat interests.txt
+
+Exploring the wonders of PowerShell, Bash, VMware,Open-source
+Competitive gaming in my free time | Anime
+
+```
+
+
 
 ## Familiar with
 
