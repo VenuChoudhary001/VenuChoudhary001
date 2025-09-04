@@ -4,9 +4,7 @@
 
 ```bash
 $ whoami
-
-Computer Science Undergrad at NIT Durgapur
-Open Source Enthusiast | Freelance Developer
+Open Source Enthusiast | Freelance Developer | Infra ( DevOps ) Engineer 
 
 $ cat interests.txt
 
